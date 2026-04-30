@@ -1,4 +1,8 @@
 ## Credit Card Fraud Detection
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-green?style=flat&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.x-F7931E?style=flat&logo=scikit-learn)
+![Domain](https://img.shields.io/badge/Domain-Fraud%20Detection-lightblue?style=flat)
 
 A machine learning project to detect fraudulent credit card transactions using anonymized transaction data. The project covers end-to-end data exploration, visualization, preprocessing, and classification using three supervised learning models.
 
